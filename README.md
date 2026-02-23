@@ -11,49 +11,22 @@ composta por 4 aulas práticas focadas em análise e manipulação de dados com 
 
 <hr>
 
-<style>
-.section {
-  background-color: #0f172a;
-  padding: 20px;
-  border-radius: 12px;
-  margin-bottom: 20px;
-  color: #e2e8f0;
-}
+<div style="background-color:#0f172a; padding:20px; border-radius:12px; margin-bottom:20px; color:#e2e8f0;">
 
-.section h2 {
-  color: #38bdf8;
-}
-
-.badge {
-  display: inline-block;
-  background-color: #1e293b;
-  padding: 8px 14px;
-  border-radius: 20px;
-  margin: 5px;
-  font-size: 14px;
-}
-.highlight {
-  color: #22d3ee;
-  font-weight: bold;
-}
-</style>
-
-<div class="section">
-
-<h2>🐍 Aula 1 – Primeiros Passos com Python</h2>
+<h2 style="color:#38bdf8;">🐍 Aula 1 – Primeiros Passos com Python</h2>
 
 <p>
-Introdução à linguagem <span class="highlight">Python</span> e preparação do ambiente de desenvolvimento 
-que seria utilizado ao longo do projeto.
+Introdução à linguagem <strong style="color:#22d3ee;">Python</strong> e preparação do ambiente 
+de desenvolvimento que seria utilizado ao longo do projeto.
 </p>
 
 </div>
 
-<div class="section">
+<div style="background-color:#0f172a; padding:20px; border-radius:12px; margin-bottom:20px; color:#e2e8f0;">
 
-<h2>💻 Aulas 2 e 3 – Manipulação de Dados</h2>
+<h2 style="color:#38bdf8;">💻 Aulas 2 e 3 – Manipulação de Dados</h2>
 
-<p>Utilização do <span class="highlight">Google Colab</span> para:</p>
+<p>Utilização do <strong style="color:#22d3ee;">Google Colab</strong> para:</p>
 
 <ul>
   <li>Executar códigos em Python</li>
@@ -63,18 +36,17 @@ que seria utilizado ao longo do projeto.
 </ul>
 
 <p>
-Nesta etapa, aprendemos a transformar dados brutos em informações organizadas 
-e prontas para análise.
+Transformação de dados brutos em informações organizadas e prontas para análise.
 </p>
 
 </div>
 
-<div class="section">
+<div style="background-color:#0f172a; padding:20px; border-radius:12px; margin-bottom:20px; color:#e2e8f0;">
 
-<h2>📊 Aula 4 – Construção do Dashboard</h2>
+<h2 style="color:#38bdf8;">📊 Aula 4 – Construção do Dashboard</h2>
 
 <p>
-Desenvolvimento de um <span class="highlight">dashboard interativo</span> utilizando 
+Desenvolvimento de um <strong style="color:#22d3ee;">dashboard interativo</strong> utilizando 
 <strong>VS Code</strong>, com foco em:
 </p>
 
@@ -93,10 +65,10 @@ Desenvolvimento de um <span class="highlight">dashboard interativo</span> utiliz
 
 <h2>🚀 Tecnologias Utilizadas</h2>
 
-<span class="badge">Python</span>
-<span class="badge">Pandas</span>
-<span class="badge">Google Colab</span>
-<span class="badge">VS Code</span>
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white">
+<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white">
+<img src="https://img.shields.io/badge/Google%20Colab-F9AB00?style=for-the-badge&logo=googlecolab&logoColor=white">
+<img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white">
 
 </div>
 
