@@ -7,6 +7,12 @@ Projeto desenvolvido durante a <strong>Imersão em Banco de Dados</strong>,
 composta por 5 aulas práticas focadas em análise e manipulação de dados com Python.
 </p>
 
+<p align="center">
+  <a href="https://project-dadosphyton.streamlit.app/" target="_blank">
+    <img src="https://img.shields.io/badge/🚀%20Acessar%20Projeto-22c55e?style=for-the-badge">
+  </a>
+</p>
+
 </div>
 
 <hr>
@@ -82,5 +88,21 @@ Desenvolvimento de um <strong style="color:#22d3ee;">dashboard interativo</stron
 Aplicar conceitos de banco de dados e análise de dados na prática,
 transformando informações em visualizações interativas que auxiliam na tomada de decisões.
 </p>
+
+<p align="center">
+  <a href="https://www.instagram.com/v.msnts7/" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white">
+  </a>
+  
+  <a href="https://www.instagram.com/v.msnts7/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
+  </a>
+  
+  <a href="https://github.com/victorsnts7" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white">
+  </a>
+</p>
+
+
 
 </div>
