@@ -4,7 +4,7 @@
 
 <p>
 Projeto desenvolvido durante a <strong>Imersão em Banco de Dados</strong>, 
-composta por 4 aulas práticas focadas em análise e manipulação de dados com Python.
+composta por 5 aulas práticas focadas em análise e manipulação de dados com Python.
 </p>
 
 </div>
@@ -13,7 +13,7 @@ composta por 4 aulas práticas focadas em análise e manipulação de dados com 
 
 <div style="background-color:#0f172a; padding:20px; border-radius:12px; margin-bottom:20px; color:#e2e8f0;">
 
-<h2 style="color:#38bdf8;">🐍 Aula 1 – Primeiros Passos com Python</h2>
+<h2 style="color:#38bdf8;">🐍 Aula de apresentação – Primeiros Passos com Python</h2>
 
 <p>
 Introdução à linguagem <strong style="color:#22d3ee;">Python</strong> e preparação do ambiente 
@@ -24,7 +24,7 @@ de desenvolvimento que seria utilizado ao longo do projeto.
 
 <div style="background-color:#0f172a; padding:20px; border-radius:12px; margin-bottom:20px; color:#e2e8f0;">
 
-<h2 style="color:#38bdf8;">💻 Aulas 2 e 3 – Manipulação de Dados</h2>
+<h2 style="color:#38bdf8;">💻 Aulas 1,2 e 3 – Manipulação de Dados</h2>
 
 <p>Utilização do <strong style="color:#22d3ee;">Google Colab</strong> para:</p>
 
