@@ -13,6 +13,12 @@ composta por 5 aulas práticas focadas em análise e manipulação de dados com 
   </a>
 </p>
 
+<h2>Como acessar o projeto:</h2>
+
+<p>Clique no botão “Acessar projeto” acima. Em seguida, será exibida uma página com a mensagem: “This app has gone to sleep due to inactivity. Would you like to wake it back up?”</p>
+
+<p>Para continuar, clique no botão azul para reativar a aplicação.</p>
+
 </div>
 
 <hr>
